@@ -1,0 +1,79 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393E46;
+  background-image:url(images/table9.jpg);
+  margin-bottom: 0px;
+}
+
+h1 {
+  margin: 20px;
+  /* font-family: 'Lobster', cursive; */
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+  padding-top: 20px;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  /* font-family: 'Indie Flower', cursive; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  color: #EEEEEE;
+  text-align: center;
+  /* font-family: 'Indie Flower', cursive; */
+  margin-bottom: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a
+{
+  color: white;
+  text-decoration: none;
+}
+
+.rollbtn
+{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-style: double;
+  height: 3em;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.rollbtn:hover
+{
+  background-color: rgb(124, 189, 124);
+}
+
+.rolldiv
+{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+footer
+{
+  margin-top: 25px;
+}
